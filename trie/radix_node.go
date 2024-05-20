@@ -1,4 +1,4 @@
-package mtrie
+package trie
 
 type radixNode struct {
 	path     string

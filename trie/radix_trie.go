@@ -1,4 +1,4 @@
-package mtrie
+package trie
 
 //NOTE: radixTrie 的 root 是可以有path的，这点和trie不同
 type RadixTrie struct {
